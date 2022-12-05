@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
   <folder>牙签-4</folder>
   <filename>img_000226.jpg</filename>
   <path>D:\resize\牙签-4\img_000226.jpg</path>
@@ -12,7 +12,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-      <name>牙签</name>
+      <name>Toothpicks</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>
@@ -24,7 +24,7 @@
       </bndbox>
     </object>
     <object>
-      <name>污损塑料</name>
+      <name>Defiled Plastic</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>

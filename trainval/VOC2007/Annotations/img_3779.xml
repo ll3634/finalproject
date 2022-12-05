@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
   <folder>果肉果皮</folder>
   <filename>img_3779.jpg</filename>
   <path>D:\resize\果肉果皮\img_3779.jpg</path>
@@ -12,7 +12,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-      <name>果皮果肉</name>
+      <name>Peel and Pulp</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>

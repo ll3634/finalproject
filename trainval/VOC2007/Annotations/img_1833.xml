@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
 	<folder>筷子</folder>
 	<filename>img_1833.jpg</filename>
 	<path>D:\workspace\task\ModelArts\modelArts-task\competition\SODIC\garbage_classify\datasets\垃圾分类标注完成\筷子\img_1833.jpg</path>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>筷子</name>
+		<name>Chopsticks</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

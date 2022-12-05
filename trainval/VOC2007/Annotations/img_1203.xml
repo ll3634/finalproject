@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
 	<folder>牙签</folder>
 	<filename>img_1203.jpg</filename>
 	<path>C:\Users\zwx749888\Desktop\牙签\img_1203.jpg</path>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>牙签</name>
+		<name>Toothpicks</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

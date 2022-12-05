@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
   <folder>纸盒纸箱-孙双艳</folder>
   <filename>img_15097.jpg</filename>
   <path>D:\resize\纸盒纸箱-孙双艳\img_15097.jpg</path>
@@ -12,7 +12,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-      <name>纸盒纸箱</name>
+      <name>Carton box</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>

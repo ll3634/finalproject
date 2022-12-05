@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
   <folder>2</folder>
   <filename>img_1022.jpg</filename>
   <path>D:\resize\2\img_1022.jpg</path>
@@ -12,7 +12,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-      <name>烟蒂</name>
+      <name>Cigarette butts</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>
@@ -24,7 +24,7 @@
       </bndbox>
     </object>
     <object>
-      <name>烟蒂</name>
+      <name>Cigarette butts</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>

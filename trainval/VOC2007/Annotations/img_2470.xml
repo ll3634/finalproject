@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
   <folder>6</folder>
   <filename>img_2470.jpg</filename>
   <path>D:\resize\6\img_2470.jpg</path>
@@ -12,7 +12,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-      <name>剩饭剩菜</name>
+      <name>Leftovers</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>
@@ -24,7 +24,7 @@
       </bndbox>
     </object>
     <object>
-      <name>剩饭剩菜</name>
+      <name>Leftovers</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>
@@ -36,7 +36,7 @@
       </bndbox>
     </object>
     <object>
-      <name>筷子</name>
+      <name>Chopsticks</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>
@@ -48,7 +48,7 @@
       </bndbox>
     </object>
     <object>
-      <name>污损塑料</name>
+      <name>Defiled Plastic</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>
@@ -60,7 +60,7 @@
       </bndbox>
     </object>
     <object>
-      <name>饮料瓶</name>
+      <name>Bottles</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>
@@ -72,7 +72,7 @@
       </bndbox>
     </object>
     <object>
-      <name>陶瓷器皿</name>
+      <name>Ceramic utensils</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>
@@ -84,7 +84,7 @@
       </bndbox>
     </object>
     <object>
-      <name>陶瓷器皿</name>
+      <name>Ceramic utensils</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>
@@ -96,7 +96,7 @@
       </bndbox>
     </object>
     <object>
-      <name>陶瓷器皿</name>
+      <name>Ceramic utensils</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>
@@ -108,7 +108,7 @@
       </bndbox>
     </object>
     <object>
-      <name>污损用纸</name>
+      <name>Contaminated paper</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>

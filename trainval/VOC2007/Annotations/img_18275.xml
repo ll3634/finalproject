@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
 	<folder>干电池</folder>
 	<filename>img_18275.jpg</filename>
 	<path>C:\Users\hwx731336\Desktop\黄明明\干电池\img_18275.jpg</path>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>干电池</name>
+		<name>Dry Battery</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

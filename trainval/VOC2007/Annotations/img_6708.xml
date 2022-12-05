@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
   <folder>7</folder>
   <filename>img_6708.jpg</filename>
   <path>D:\resize\7\img_6708.jpg</path>
@@ -12,7 +12,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-      <name>鱼骨</name>
+      <name>Fish Bones</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>
@@ -24,7 +24,7 @@
       </bndbox>
     </object>
     <object>
-      <name>剩饭剩菜</name>
+      <name>Leftovers</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>

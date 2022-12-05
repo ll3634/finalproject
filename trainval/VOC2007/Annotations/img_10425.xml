@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
 	<folder>插头电线</folder>
 	<filename>img_10425.jpg</filename>
 	<path>D:\workspace\task\ModelArts\modelArts-task\competition\SODIC\garbage_classify\datasets\垃圾分类标注完成\插头电线\img_10425.jpg</path>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>插头电线</name>
+		<name>Plug Wire</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>插头电线</name>
+		<name>Plug Wire</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

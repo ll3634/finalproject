@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
 	<folder>毛绒玩具</folder>
 	<filename>img_12165.jpg</filename>
 	<path>C:\Users\hwx731336\Desktop\黄明明\毛绒玩具\img_12165.jpg</path>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>毛绒玩具</name>
+		<name>Stuffed Toy</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

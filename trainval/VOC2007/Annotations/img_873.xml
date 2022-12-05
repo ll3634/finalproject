@@ -1,4 +1,4 @@
-<annotation verified="yes">
+<?xml version="1.0" ?><annotation verified="yes">
 	<folder>烟蒂</folder>
 	<filename>img_873.jpg</filename>
 	<path>D:\workspace\task\ModelArts\modelArts-task\competition\SODIC\garbage_classify\datasets\垃圾分类标注完成\烟蒂\img_873.jpg</path>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>烟蒂</name>
+		<name>Cigarette butts</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>烟蒂</name>
+		<name>Cigarette butts</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>烟蒂</name>
+		<name>Cigarette butts</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>烟蒂</name>
+		<name>Cigarette butts</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

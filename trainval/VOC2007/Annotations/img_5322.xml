@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
   <folder>菜帮菜叶</folder>
   <filename>img_5322.jpg</filename>
   <path>D:\resize\菜帮菜叶\img_5322.jpg</path>
@@ -12,7 +12,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-      <name>菜帮菜叶</name>
+      <name>Veggies</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>
@@ -24,7 +24,7 @@
       </bndbox>
     </object>
     <object>
-      <name>锅</name>
+      <name>Pots</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>

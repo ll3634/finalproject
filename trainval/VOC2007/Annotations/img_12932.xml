@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
   <folder>洗护用品-孙双艳</folder>
   <filename>img_12932.jpg</filename>
   <path>D:\resize\洗护用品-孙双艳\img_12932.jpg</path>
@@ -12,7 +12,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-      <name>洗护用品</name>
+      <name>Toilet care products</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>

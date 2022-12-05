@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
 	<folder>label</folder>
 	<filename>eed7d90379acd8c427b5b73f0a229e6.jpg</filename>
 	<path>C:\Users\hwx594248\Desktop\label\eed7d90379acd8c427b5b73f0a229e6.jpg</path>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>书籍纸张</name>
+		<name>Book Paper</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
   <folder>4</folder>
   <filename>img_1699.jpg</filename>
   <path>D:\resize\4\img_1699.jpg</path>
@@ -12,7 +12,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-      <name>陶瓷器皿</name>
+      <name>Ceramic utensils</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>

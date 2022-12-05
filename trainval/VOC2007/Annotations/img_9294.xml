@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
 	<folder>塑料衣架</folder>
 	<filename>img_9294.jpg</filename>
 	<path>C:\Users\zwx652983\Desktop\lj\塑料衣架\img_9294.jpg</path>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>塑料衣架</name>
+		<name>Plastic Hangers</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
 	<folder>包</folder>
 	<filename>img_7255.jpg</filename>
 	<path>C:\Users\zwx652983\Desktop\lj\包\img_7255.jpg</path>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>包</name>
+		<name>Package</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

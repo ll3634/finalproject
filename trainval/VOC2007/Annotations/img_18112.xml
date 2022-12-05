@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
 	<folder>饮料瓶</folder>
 	<filename>img_18112.jpg</filename>
 	<path>D:\workspace\task\ModelArts\modelArts-task\competition\SODIC\garbage_classify\datasets\垃圾分类标注完成\饮料瓶\img_18112.jpg</path>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>饮料瓶</name>
+		<name>Bottles</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

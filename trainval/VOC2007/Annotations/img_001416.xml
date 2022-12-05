@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
   <folder>污损用纸-17</folder>
   <filename>img_000132.jpg</filename>
   <path>D:\resize\污损用纸-17\img_000132.jpg</path>
@@ -12,7 +12,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-      <name>污损用纸</name>
+      <name>Contaminated paper</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>

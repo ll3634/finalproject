@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
   <folder>duqi-484</folder>
   <filename>img_000212.jpg</filename>
   <path>D:\resize\duqi-484\img_000212.jpg</path>
@@ -12,7 +12,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-      <name>金属食品罐</name>
+      <name>Metal Food Cans</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>

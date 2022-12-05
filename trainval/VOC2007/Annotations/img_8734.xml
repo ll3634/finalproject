@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
 	<folder>塑料器皿</folder>
 	<filename>img_8734.jpg</filename>
 	<path>C:\Users\zwx652983\Desktop\lj\塑料器皿\img_8734.jpg</path>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>塑料器皿</name>
+		<name>Plastic Utensils</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

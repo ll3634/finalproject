@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
 	<folder>金属食品罐-50</folder>
 	<filename>img_16575.jpg</filename>
 	<path>C:\Users\hwx731336\Desktop\黄明明\金属食品罐-50\img_16575.jpg</path>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>金属食品罐</name>
+		<name>Metal Food Cans</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

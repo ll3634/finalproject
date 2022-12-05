@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
   <folder>塑料垃圾</folder>
   <filename>img_522.jpg</filename>
   <path>D:\resize\塑料垃圾\img_522.jpg</path>
@@ -12,7 +12,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-      <name>污损塑料</name>
+      <name>Defiled Plastic</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>

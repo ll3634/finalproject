@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
   <folder>6</folder>
   <filename>img_2462.jpg</filename>
   <path>D:\resize\6\img_2462.jpg</path>
@@ -12,7 +12,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-      <name>剩饭剩菜</name>
+      <name>Leftovers</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>
@@ -24,7 +24,7 @@
       </bndbox>
     </object>
     <object>
-      <name>金属厨具</name>
+      <name>Metal Kitchenware</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>
@@ -36,7 +36,7 @@
       </bndbox>
     </object>
     <object>
-      <name>一次性快餐盒</name>
+      <name>Disposable Fast Food Box</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>

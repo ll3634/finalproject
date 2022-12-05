@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
   <folder>茶叶渣</folder>
   <filename>img_4569.jpg</filename>
   <path>D:\resize\茶叶渣\img_4569.jpg</path>
@@ -12,7 +12,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-      <name>茶叶渣</name>
+      <name>Tea residue</name>
       <pose>Unspecified</pose>
       <truncated>1</truncated>
       <difficult>0</difficult>

@@ -1,4 +1,4 @@
-<annotation>
+<?xml version="1.0" ?><annotation>
 	<folder>充电宝</folder>
 	<filename>img_6751.jpg</filename>
 	<path>C:\Users\zwx652983\Desktop\lj\充电宝\img_6751.jpg</path>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>充电宝</name>
+		<name>Power Bank</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
